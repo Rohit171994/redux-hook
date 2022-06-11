@@ -1,0 +1,33 @@
+.btnInc, .btnDec{
+    height: 45px;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    width: 300px;
+    font-size: large;
+    font-weight: bold;
+}
+.reduxContainer{
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+.inputField{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.inputOne, .inputTwo{
+    height: 30px;
+    width: 100px;
+}
+.btnGroup{
+    display: flex;
+    justify-content: space-between;
+}
